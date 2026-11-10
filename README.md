@@ -20,9 +20,7 @@ I am a Backend Software Engineer with a solid foundation in Object-Oriented Prog
 ### Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
 ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -30,14 +28,12 @@ I am a Backend Software Engineer with a solid foundation in Object-Oriented Prog
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools & DevOps
@@ -54,13 +50,11 @@ I am a Backend Software Engineer with a solid foundation in Object-Oriented Prog
 | :--- | :--- | :--- |
 | [CareS Clinic Management System](https://github.com/cuongnd-code/BackEnd-Management-System-for-Medical-Examination-Processes-at-General-Clinic) | Java 17, Spring Boot 3, PostgreSQL, Redis, STOMP WebSocket, Docker | Comprehensive outpatient medical examination management system with 6-role RBAC security and real-time clinical queue triage. |
 | [Car E-Commerce & Showroom](https://github.com/cuongnd-code/car-ecommerce-system) | C# .NET 8 MVC, EF Core 8, MySQL, SignalR | Full-stack virtual dealership platform featuring bi-directional real-time buyer consultation chat and live inventory broadcasting. |
-| [Expense Jars App](https://github.com/cuongnd-code/expense-jars-app) | Flutter, Dart, SQLite, Supabase | Personal finance mobile application built on the 6 Jars Money Management System, featuring dynamic charts and Excel export. |
-| [Retail POS & Inventory System](https://github.com/cuongnd-code/ManagerProduct) | .NET 8 MAUI, C#, SQLite (EF Core 9) | Cross-platform offline-first retail sales management, invoice generation, customer directory, and inventory control. |
 
 ---
 
 ## Connect with Me
 
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](LINKEDIN_URL_PLACEHOLDER)
 - Email: [cuongnguyenduc838@gmail.com](mailto:cuongnguyenduc838@gmail.com)
 - Location: Hanoi, Vietnam
-- GitHub: [https://github.com/cuongnd-code](https://github.com/cuongnd-code)
